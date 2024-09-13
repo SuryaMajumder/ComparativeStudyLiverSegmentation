@@ -24,14 +24,14 @@ The U-Net architecture has become a mainstay in contemporary research on medical
 | Swin U-Net | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akalder/ComparativeStudyLiverSegmentation/blob/main/3DIRCADb/swin-unet-3dircadb.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akalder/ComparativeStudyLiverSegmentation/blob/main/CHAOS/swin-unet-chaos.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akalder/ComparativeStudyLiverSegmentation/blob/main/LiTS/swinunet-lits.ipynb) |
 | Trans U-Net | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akalder/ComparativeStudyLiverSegmentation/blob/main/3DIRCADb/transunet-3dircadb.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akalder/ComparativeStudyLiverSegmentation/blob/main/CHAOS/chaos-transunet-liver.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akalder/ComparativeStudyLiverSegmentation/blob/main/LiTS/transunet-lits.ipynb) |
 
-## Authors :sunglasses:*
+## Authors:
 [Akash Halder](https://in.linkedin.com/in/akash-halder-1b315b1b7?original_referer=https%3A%2F%2Fwww.google.com%2F)<br/>
 [Arup Sau](https://www.linkedin.com/in/arup-sau-6503a4184/)<br/>
 [Surya Majumder](https://www.linkedin.com/in/surya-majumder-333891246/)<br/>
 [Dmitry Kaplun](https://ru.linkedin.com/in/dmitrii-kaplun-7971b085/en)<br/>
 [Ram Sarkar](http://www.jaduniv.edu.in/profile.php?uid=686)<br/>
 
-## Citation :thinking:*
+## Citation:
 Please do cite our paper in case you find it useful for your research.<br/>
 Citation-<br/>
 
