@@ -1,6 +1,13 @@
 # An Experimental Study of U-Net Variants on Liver Segmentation from CT Scans
 This is the official implementation of "An Experimental Study of U-Net Variants on Liver Segmentation from CT Scans". 
 
+Accepted for publication at [Journal of Intelligent Systems](https://www.degruyter.com/journal/key/jisys/html?lang=en)
+
+## Abstract:
+The liver, a complex and important organ in the human body, is crucial to many physiological processes. For the diagnosis and ongoing monitoring of a wide spectrum of liver diseases, an accurate segmentation of the liver from medical imaging is essential. The importance of liver segmentation in clinical practice is examined in this research, along with the difficulties in attaining accurate segmentation masks, particularly when working with small structures and precise details. 
+This study investigates the performance of 10 well-known U-Net models, including Vanilla U-Net, Attention U-Net, V-Net, U-Net 3+, R2U-Net, U$^2$-Net, U-Net++, Res U-Net, Swin-U-Net and Trans-U-Net. These variations have become optimal approaches to liver segmentation, each providing certain benefits and addressing particular difficulties. We have conducted this research on Computed Tomography (CT) scan images from three standard datasets, namely, 3DIRCADb, CHAOS and LiTS datasets. 
+The U-Net architecture has become a mainstay in contemporary research on medical picture segmentation due to its success in preserving contextual information and capturing fine features. The structural and functional characteristics that help it perform well on liver segmentation tasks even with scant annotated data is well highlighted in this study. 
+
 
 
 ## Model Codes
